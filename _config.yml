@@ -5,12 +5,12 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Minimal Blog
+title:            Od-Erdene
 tagline:          'I like KISS. By KISS I means "keep it simple and stupid". '
 baseurl:          /
 
 author:
-  name:           Long
+  name:           Odkoo
 
 paginate:         5
 recent-num:       5
